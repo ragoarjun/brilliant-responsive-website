@@ -1,0 +1,1 @@
+A responsive, minimalistic mockup of a website inspired by Brilliant.org, built using only HTML and CSS. This project showcases clean design principles and fully adapts to both desktop and mobile screens.
